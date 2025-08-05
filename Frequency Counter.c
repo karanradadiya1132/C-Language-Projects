@@ -27,8 +27,12 @@ int main()
 }  
 
 /*  Output 
+ Enter any string: karan
 
-
-
+ Frequency of each character:
+a => 2
+k => 1
+n => 1
+r => 1
 
 */
